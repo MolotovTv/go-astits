@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/asticode/go-astitools/binary"
+	"github.com/molotovtv/go-astitools/binary"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,7 +3,7 @@ package astits
 import (
 	"time"
 
-	"github.com/asticode/go-astilog"
+	"github.com/molotovtv/go-astilog"
 )
 
 // Audio types

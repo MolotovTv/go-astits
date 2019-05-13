@@ -3,7 +3,7 @@ package astits
 import (
 	"testing"
 
-	"github.com/asticode/go-astitools/binary"
+	astibinary "github.com/molotovtv/go-astitools/binary"
 	"github.com/stretchr/testify/assert"
 )
 
