@@ -1,4 +1,4 @@
-module github.com/asticode/go-astits
+module github.com/molotovtv/go-astits
 
 require (
 	github.com/molotovtv/go-astilog v0.0.0-20190826120007-12ed50cb3050
